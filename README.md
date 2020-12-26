@@ -23,6 +23,8 @@ Hey！捕捉到一个好看的人儿，这里收集了一些书籍，希望对�
 - 《概率论与数理统计习题全解指南》 [百度网盘链接](https://pan.baidu.com/s/18NOPHA-1yz1He_J9C9lCnQ) 提取码：c7y5
 - 《计算机操作系统》第四版 [百度网盘链接](https://pan.baidu.com/s/1Ozt5T2oadEZJ9jq-_roWew) 提取码：tv0s
 - 《计算机组成原理》第二版 [百度网盘链接](https://pan.baidu.com/s/1XxU_UJjhSpmHYKED6758xA) 提取码：cton
+- 《大话数据结构》[百度网盘链接](https://pan.baidu.com/s/17a_bPq96bDytOlXtotGj4Q) 提取码：x6ke 
+- 《大话数据结构配套源码》[百度网盘链接](https://pan.baidu.com/s/1vKU3mFU2tNtZ8fTajAEgNg) 提取码：isf7 
 ## 这里是小说
 - 《三体》全集[百度网盘链接](https://pan.baidu.com/s/1iVhZVZG-y9XSzK9PIEsxqg)提取码：gw1i 
 ## 免责声明
