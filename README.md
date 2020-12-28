@@ -25,7 +25,7 @@ Hey！捕捉到一个好看的人儿，这里收集了一些书籍，希望对�
 - 《计算机组成原理》第二版 [百度网盘链接](https://pan.baidu.com/s/1XxU_UJjhSpmHYKED6758xA) 提取码：cton
 - 《大话数据结构》[百度网盘链接](https://pan.baidu.com/s/17a_bPq96bDytOlXtotGj4Q) 提取码：x6ke 
 - 《大话数据结构配套源码》[百度网盘链接](https://pan.baidu.com/s/1vKU3mFU2tNtZ8fTajAEgNg) 提取码：isf7
-- 《计算机网络》谢希仁-第七版[百度网盘链接](https://pan.baidu.com/s/1Usv55_DImAQtjGMjsQSW-Q)提取码：vzgm
+- 《计算机网络》谢希仁-第七版[百度网盘链接](https://pan.baidu.com/s/1Usv55_DImAQtjGMjsQSW-Q) 提取码：vzgm
 ## 这里是小说
 - 《三体》全集[百度网盘链接](https://pan.baidu.com/s/1iVhZVZG-y9XSzK9PIEsxqg)提取码：gw1i 
 ## 免责声明
